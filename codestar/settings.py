@@ -26,8 +26,6 @@ SECRET_KEY = 'django-insecure-y2q5-l!+e#)xbhq=waj%q4z8)))6q&!h^5yr_swgi+v^6^vx#j
 DEBUG = True
 
 ALLOWED_HOSTS = ['8000-monikamak-djangoblog-3fa05v77bog.ws.codeinstitute-ide.net','.herokuapp.com']
-
-
 # Application definition
 
 INSTALLED_APPS = [
@@ -38,7 +36,6 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'blog',
-
 ]
 
 MIDDLEWARE = [
